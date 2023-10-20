@@ -22,20 +22,20 @@
   
 ### 🏢 Education Experience
 
-<img align="right" width="88" src="https://bkimg.cdn.bcebos.com/pic/77c6a7efce1b9d16fdfae75ade8fa38f8c5494eecef5?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UyNzI=,g_7,xp_5,yp_5/format,f_auto" />
+<img align="right" width="88" src="https://www.cdut.edu.cn/__local/C/7B/23/62653F5B103D730D5CF631D8032_ADC706A3_193C4.png" />
 
 - [成都理工大学](https://www.cdut.edu.cn/) &emsp;双一流学科建设大学 📌 2020-09-01 —— Now
   
   - 国家奖学金获得者
   - 保送至南方科技大学数据库课题组
   - Nation scholarship owner(Top 0.2% overall)
-  - Gonna pursue a master's degree in Sustect DBGroup
+  - Gonna pursue a master's degree in Sustech DBGroup
 
-<img align="right" width="88" src="https://th.bing.com/th/id/OIP.qO5qBThZk1Vla4p6y34dJwAAAA?pid=ImgDet&rs=1" />
+<img align="right" width="88" src="https://www.sustech.edu.cn/static/newest2-v4/img/icon/ft-logo.png" />
 
 - [南方科技大学](https://www.sustech.edu.cn) &emsp;全国顶尖型研究性大学 📌 2023-06-01 —— Now
   - Research assistant work in the DBGroup
-  - Gonna pursue a master's degree in Sustect DBGroup
+  - Gonna pursue a master's degree in Sustech DBGroup
 
 
 <!-- wakatime 统计 -->
