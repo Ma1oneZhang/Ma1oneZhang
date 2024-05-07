@@ -9,17 +9,18 @@
 <tr><td>
 
 ### 🤺 About Me
-We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.
 <p><strong>&emsp;&emsp;Pursuing MPhil Degree in @DBGroup-SUSTech aboue Computer science and Database</strong></p>
-National scholarship owner.
+
+<p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
+
+<p>&emsp;&emsp;I've been owned National scholarship in my undergraduate time. I'm proud of it.</p>
 
 
 </td></tr>
 
 <tr>
 <td>
-  
-<!-- wakatime 统计 -->
+
 ### 📊 WakaTime
 
 <picture>
