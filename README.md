@@ -9,7 +9,10 @@
 <tr><td>
 
 ### 🤺 About Me
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.
+<p><strong>&emsp;&emsp;Pursuing MPhil Degree in @DBGroup-SUSTech aboue Computer science and Database</strong></p>
+National scholarship owner.
+
 
 </td></tr>
 
