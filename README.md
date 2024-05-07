@@ -9,7 +9,7 @@
 <tr><td>
 
 ### 🤺 About Me
-<p><strong>&emsp;&emsp;Pursuing MPhil Degree in @DBGroup-SUSTech aboue Computer science and Database</strong></p>
+<p><strong>&emsp;&emsp;Pursuing MPhil Degree in @DBGroup-SUSTech. I'm foucs on Database and High scalablity software in cloud.</strong></p>
 
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 
