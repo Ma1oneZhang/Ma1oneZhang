@@ -9,10 +9,6 @@
 <tr><td>
 
 ### 🤺 About Me
-
-<p>&emsp;&emsp;热爱编程、运动、游戏。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
@@ -20,24 +16,6 @@
 <tr>
 <td>
   
-### 🏢 Education Experience
-
-<img align="right" width="88" src="https://www.cdut.edu.cn/__local/C/7B/23/62653F5B103D730D5CF631D8032_ADC706A3_193C4.png" />
-
-- [成都理工大学](https://www.cdut.edu.cn/) &emsp;双一流学科建设大学 📌 2020-09-01 —— Now
-  
-  - 国家奖学金获得者
-  - 保送至南方科技大学数据库课题组
-  - Nation scholarship owner(Top 0.2% overall)
-  - Gonna pursue a master's degree in Sustech DBGroup
-
-<img align="right" width="88" src="https://www.sustech.edu.cn/static/newest2-v4/img/icon/ft-logo.png" />
-
-- [南方科技大学](https://www.sustech.edu.cn) &emsp;全国顶尖型研究性大学 📌 2023-06-01 —— Now
-  - Research assistant work in the DBGroup
-  - Gonna pursue a master's degree in Sustech DBGroup
-
-
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
 
