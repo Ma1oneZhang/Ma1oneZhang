@@ -15,6 +15,8 @@
 
 <p>&emsp;&emsp;I've been owned National scholarship in my undergraduate time. I'm proud of it.</p>
 
+<p>&emsp;&emsp;I'm one of the Champion team of performance in vector retrieval track the 2024 OceanBase Competition!</p>
+
 
 </td></tr>
 
