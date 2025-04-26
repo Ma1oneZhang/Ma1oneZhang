@@ -1,7 +1,4 @@
 # 🙋 Hello
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=std::cout%20<<%20'Hello%20World'%20;&center=true&size=27" alt="Typing SVG" />
-</div>
 
 <table>
 <tr><td>
