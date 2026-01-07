@@ -15,29 +15,5 @@
 
 </td></tr>
 
-<tr>
-<td>
-
-### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Ma1oneZhang&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Ma1oneZhang&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ma1oneZhang&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true" />
-</picture>
-
-</td></tr>
-
-<tr><td>
-
-<div align=center><img src=https://github-readme-stats.vercel.app/api?username=Ma1oneZhang&show_icons=true&theme=darcula&count_private=true></div>
-<div align=center><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Ma1oneZhang&layout=compact></div>
-
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
