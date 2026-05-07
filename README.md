@@ -4,13 +4,13 @@
 <tr><td>
 
 ### 🤺 About Me
-<p><strong>&emsp;&emsp;Pursuing MPhil Degree in @DBGroup-SUSTech. I'm foucs on Database and High scalablity software in cloud.</strong></p>
+<p><strong>&emsp;&emsp;Pursuing MPhil Degree in @DBGroup-SUSTech. I'm focused on Database and High scalability software in the cloud.</strong></p>
 
-<p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
+<p>&emsp;&emsp; We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 
-<p>&emsp;&emsp;I've been owned National scholarship in my undergraduate time. I'm proud of it.</p>
+<p>&emsp;&emsp; I've been awarded a National scholarship during my undergraduate time. I'm proud of it.</p>
 
-<p>&emsp;&emsp;I'm one of the Champion team of performance in vector retrieval track the 2024 OceanBase Competition!</p>
+<p>&emsp;&emsp; I'm one of the Champion team of performance in the vector retrieval track of the 2024 OceanBase Competition!</p>
 
 
 </td></tr>
