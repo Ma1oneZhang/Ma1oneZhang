@@ -4,7 +4,7 @@
 <tr><td>
 
 ### 🤺 About Me
-<p><strong>&emsp;&emsp;Pursuing MPhil Degree in @DBGroup-SUSTech. I'm focused on Database and High scalability software in the cloud.</strong></p>
+<p><strong>&emsp;&emsp;Pursuing MPhil Degree in @DBGroup-SUSTech. I'm focused on AI infra and Database in the cloud.</strong></p>
 
 <p>&emsp;&emsp; We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 
