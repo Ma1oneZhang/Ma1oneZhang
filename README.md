@@ -1,6 +1,6 @@
 # Hi, I'm Ma1oneZhang 👋
 
-- 🎓 MPhil student at [DBGroup@SUSTech](https://github.com/DBGroup-SUSTech), focusing on large-scale AI infra and databases in the cloud
+- 🎓 MPhil student at [DBGroup@SUSTech](https://github.com/DBGroup-SUSTech), working on efficient LLM inference — sparse offloading & large-scale parallelism
 - 💼 Infra intern at [Novita AI](https://github.com/novitalabs), previously developer at datalayers
 - 🚀 Contributor to [vLLM](https://github.com/vllm-project/vllm) and [pegainfer](https://github.com/pegainfer-project/pegainfer) LLM inference engines
 - 🏆 National Scholarship recipient during undergrad
