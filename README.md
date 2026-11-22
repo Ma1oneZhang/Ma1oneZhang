@@ -1,19 +1,12 @@
-# 🙋 Hello
+# Hi, I'm Ma1oneZhang 👋
 
-<table>
-<tr><td>
+- 🎓 MPhil student at [DBGroup@SUSTech](https://github.com/DBGroup-SUSTech), focusing on large-scale AI infra and databases in the cloud
+- 💼 Infra intern at [Novita AI](https://github.com/novitalabs), previously developer at datalayers
+- 🚀 Contributor to [vLLM](https://github.com/vllm-project/vllm) and [pegainfer](https://github.com/pegainfer-project/pegainfer) LLM inference engines
+- 🏆 National Scholarship recipient during undergrad
+- 🥇 Champion (performance award), Vector Retrieval Track — 2024 OceanBase Database Competition
 
-### 🤺 About Me
-<p><strong>&emsp;&emsp;Pursuing MPhil Degree in @DBGroup-SUSTech. I'm focused on AI infra and Database in the cloud.</strong></p>
+### 🔨 Featured
 
-<p>&emsp;&emsp; We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
-
-<p>&emsp;&emsp; I've been awarded a National scholarship during my undergraduate time. I'm proud of it.</p>
-
-<p>&emsp;&emsp; I'm one of the Champion team of performance in the vector retrieval track of the 2024 OceanBase Competition!</p>
-
-
-</td></tr>
-
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
+- [nsys2perfetto-datafusion](https://github.com/Ma1oneZhang/nsys2perfetto-datafusion) — Nsight Systems Parquet → Perfetto JSON with Rust + DataFusion
+- [nsys-parquet-perfetto-skill](https://github.com/Ma1oneZhang/nsys-parquet-perfetto-skill) — Codex skill packaging the same converter workflow
