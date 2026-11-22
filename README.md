@@ -8,5 +8,6 @@
 
 ### 🔨 Featured
 
+- [gravity-trace](https://github.com/novitalabs/nsight-perf-sdk-for-ai/pull/1) — NVIDIA Nsight Perf SDK as a production GPU trace source (Rust): Prometheus metrics, Parquet / Perfetto capture, Flight SQL streaming, per-process attribution
 - [nsys2perfetto-datafusion](https://github.com/Ma1oneZhang/nsys2perfetto-datafusion) — Nsight Systems Parquet → Perfetto JSON with Rust + DataFusion
 - [nsys-parquet-perfetto-skill](https://github.com/Ma1oneZhang/nsys-parquet-perfetto-skill) — Codex skill packaging the same converter workflow
