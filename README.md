@@ -2,7 +2,9 @@
 
 - 🎓 MPhil student at [DBGroup@SUSTech](https://github.com/DBGroup-SUSTech), working on efficient LLM inference — sparse offloading & large-scale parallelism
 - 💼 Infra intern at [Novita AI](https://github.com/novitalabs), previously developer at datalayers
-- 🚀 Contributor to [vLLM](https://github.com/vllm-project/vllm) and [pegainfer](https://github.com/pegainfer-project/pegainfer) LLM inference engines
+- 🚀 Contributor to two LLM inference engines:
+  - [vLLM](https://github.com/vllm-project/vllm) — FlashTopK backend for sparse-attention (DSA) top-k prefill: 1.36–1.38× faster top-k at ≥128K keys, −4.4 s TTFT at 1M tokens ([#67149](https://github.com/vllm-project/vllm/pull/67149))
+  - [pegainfer](https://github.com/pegainfer-project/pegainfer) — Qwen3.5 tensor parallelism: per-rank GDR state sharding, batched eager & CUDA-graph decode under TP ([#1003](https://github.com/pegainfer-project/pegainfer/pull/1003)–[#1006](https://github.com/pegainfer-project/pegainfer/pull/1006))
 - 🏆 National Scholarship recipient during undergrad
 - 🥇 Champion (performance award), Vector Retrieval Track — 2024 OceanBase Database Competition
 
